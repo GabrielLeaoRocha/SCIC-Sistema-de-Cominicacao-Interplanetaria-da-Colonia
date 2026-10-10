@@ -1,0 +1,121 @@
+﻿ciclo,modulo,tipo_modulo,codigo_sensor,fila_mensagens,qualidade_sinal_pct,tensao_v,corrente_a,latencia_observada_ms,status_operacional,mensagem_alerta
+1,Comunicação,comunicacao,COM-2A,16,72.92,12.24,1.135,68.69,ativo,Operação dentro da faixa ilustrativa
+1,Habitação,habitacao,HAB-2B,35,83.73,11.6,1.207,87.25,ativo,Operação dentro da faixa ilustrativa
+1,Agricultura,agricultura,AGR-2C,20,93.66,11.69,1.346,54.77,ativo,Operação dentro da faixa ilustrativa
+1,Laboratório,laboratorio,LAB-2D,21,64.66,12.08,1.358,83.43,ativo,Operação dentro da faixa ilustrativa
+1,Suporte Médico,medico,MED-2E,41,75.94,11.48,1.435,97.45,ativo,Operação dentro da faixa ilustrativa
+1,Armazenamento,dados,DAD-2F,19,86.83,12.3,1.553,66.46,ativo,Operação dentro da faixa ilustrativa
+1,Energia,energia,ENE-30,26,95.34,11.21,1.649,59.62,ativo,Operação dentro da faixa ilustrativa
+1,Controle,controle,CTR-31,18,70.22,11.79,1.616,66.08,ativo,Operação dentro da faixa ilustrativa
+2,Comunicação,comunicacao,COM-2A,33,86.21,11.65,1.002,86.02,ativo,Operação dentro da faixa ilustrativa
+2,Habitação,habitacao,HAB-2B,34,61.55,12.06,1.278,101.87,ativo,Operação dentro da faixa ilustrativa
+2,Agricultura,agricultura,AGR-2C,23,70.39,11.73,1.363,67.8,ativo,Operação dentro da faixa ilustrativa
+2,Laboratório,laboratorio,LAB-2D,35,80.11,11.13,1.304,92.64,ativo,Operação dentro da faixa ilustrativa
+2,Suporte Médico,medico,MED-2E,12,90.91,12.26,1.466,36.8,ativo,Operação dentro da faixa ilustrativa
+2,Armazenamento,dados,DAD-2F,27,63.82,11.68,1.485,81.28,ativo,Operação dentro da faixa ilustrativa
+2,Energia,energia,ENE-30,33,73.76,11.65,1.633,102.54,ativo,Operação dentro da faixa ilustrativa
+2,Controle,controle,CTR-31,23,80.51,11.58,1.85,57.41,ativo,Operação dentro da faixa ilustrativa
+3,Comunicação,comunicacao,COM-2A,37,67.8,11.7,1.095,107.01,alerta,Latência ou sinal fora da faixa ilustrativa
+3,Habitação,habitacao,HAB-2B,16,76.99,11.11,1.106,58.16,ativo,Operação dentro da faixa ilustrativa
+3,Agricultura,agricultura,AGR-2C,32,86.76,12.06,1.382,80.48,ativo,Operação dentro da faixa ilustrativa
+3,Laboratório,laboratorio,LAB-2D,45,92.91,11.71,1.448,106.55,alerta,Latência ou sinal fora da faixa ilustrativa
+3,Suporte Médico,medico,MED-2E,29,67.61,11.9,1.348,90.67,ativo,Operação dentro da faixa ilustrativa
+3,Armazenamento,dados,DAD-2F,40,74.59,11.93,1.618,106.46,alerta,Latência ou sinal fora da faixa ilustrativa
+3,Energia,energia,ENE-30,19,84.55,12.21,1.564,49.26,ativo,Operação dentro da faixa ilustrativa
+3,Controle,controle,CTR-31,23,61.89,12.18,1.699,82.06,ativo,Operação dentro da faixa ilustrativa
+4,Comunicação,comunicacao,COM-2A,28,61.49,11.59,1.088,129.16,alerta,Latência ou sinal fora da faixa ilustrativa
+4,Habitação,habitacao,HAB-2B,28,88.28,12.1,1.216,72.88,ativo,Operação dentro da faixa ilustrativa
+4,Agricultura,agricultura,AGR-2C,33,61.49,11.85,1.34,111.86,alerta,Latência ou sinal fora da faixa ilustrativa
+4,Laboratório,laboratorio,LAB-2D,23,71.14,11.11,1.409,80.33,ativo,Operação dentro da faixa ilustrativa
+4,Suporte Médico,medico,MED-2E,33,82.62,12.24,1.458,85.5,ativo,Operação dentro da faixa ilustrativa
+4,Armazenamento,dados,DAD-2F,38,89.84,11.26,1.574,83.97,ativo,Operação dentro da faixa ilustrativa
+4,Energia,energia,ENE-30,29,65.03,11.2,1.68,97.64,ativo,Operação dentro da faixa ilustrativa
+4,Controle,controle,CTR-31,38,72.84,11.59,1.804,94.32,ativo,Operação dentro da faixa ilustrativa
+5,Comunicação,comunicacao,COM-2A,23,93.84,11.55,1.21,54.15,ativo,Operação dentro da faixa ilustrativa
+5,Habitação,habitacao,HAB-2B,31,67.88,12.22,1.297,95.62,ativo,Operação dentro da faixa ilustrativa
+5,Agricultura,agricultura,AGR-2C,9,76.06,11.49,1.233,49.01,ativo,Operação dentro da faixa ilustrativa
+5,Laboratório,laboratorio,LAB-2D,27,85.43,12.07,1.287,79.92,ativo,Operação dentro da faixa ilustrativa
+5,Suporte Médico,medico,MED-2E,39,92.24,11.85,1.45,90.29,ativo,Operação dentro da faixa ilustrativa
+5,Armazenamento,dados,DAD-2F,22,68.39,11.33,1.651,80.82,ativo,Operação dentro da faixa ilustrativa
+5,Energia,energia,ENE-30,25,78.89,12.22,1.532,76.05,ativo,Operação dentro da faixa ilustrativa
+5,Controle,controle,CTR-31,15,88.27,12.15,1.641,38.06,ativo,Operação dentro da faixa ilustrativa
+6,Comunicação,comunicacao,COM-2A,30,69.31,12.16,1.195,92.53,ativo,Operação dentro da faixa ilustrativa
+6,Habitação,habitacao,HAB-2B,35,79.34,11.61,1.169,98.86,ativo,Operação dentro da faixa ilustrativa
+6,Agricultura,agricultura,AGR-2C,17,88.3,11.32,1.202,38.53,ativo,Operação dentro da faixa ilustrativa
+6,Laboratório,laboratorio,LAB-2D,33,62.73,11.31,1.375,111.43,alerta,Latência ou sinal fora da faixa ilustrativa
+6,Suporte Médico,medico,MED-2E,17,70.72,12.06,1.531,69.28,ativo,Operação dentro da faixa ilustrativa
+6,Armazenamento,dados,DAD-2F,24,79.03,11.21,1.539,61.6,ativo,Operação dentro da faixa ilustrativa
+6,Energia,energia,ENE-30,37,90.45,12.04,1.724,77.74,ativo,Operação dentro da faixa ilustrativa
+6,Controle,controle,CTR-31,20,68.08,11.52,1.775,58.25,ativo,Operação dentro da faixa ilustrativa
+7,Comunicação,comunicacao,COM-2A,41,84.23,11.23,1.152,91.8,ativo,Operação dentro da faixa ilustrativa
+7,Habitação,habitacao,HAB-2B,15,93.42,11.78,1.231,42.73,ativo,Operação dentro da faixa ilustrativa
+7,Agricultura,agricultura,AGR-2C,25,65.61,11.42,1.389,90.49,ativo,Operação dentro da faixa ilustrativa
+7,Laboratório,laboratorio,LAB-2D,46,76.14,12.06,1.405,125.85,alerta,Latência ou sinal fora da faixa ilustrativa
+7,Suporte Médico,medico,MED-2E,18,86.04,11.43,1.541,54.53,ativo,Operação dentro da faixa ilustrativa
+7,Armazenamento,dados,DAD-2F,32,59.54,11.12,1.638,103.59,ativo,Operação dentro da faixa ilustrativa
+7,Energia,energia,ENE-30,23,68.54,12.26,1.534,76.8,ativo,Operação dentro da faixa ilustrativa
+7,Controle,controle,CTR-31,23,80.11,11.79,1.835,67.17,ativo,Operação dentro da faixa ilustrativa
+8,Comunicação,comunicacao,COM-2A,13,61.89,11.65,1.13,63.39,ativo,Operação dentro da faixa ilustrativa
+8,Habitação,habitacao,HAB-2B,25,70.9,11.36,1.181,81.11,ativo,Operação dentro da faixa ilustrativa
+8,Agricultura,agricultura,AGR-2C,40,83.27,11.92,1.367,96.0,ativo,Operação dentro da faixa ilustrativa
+8,Laboratório,laboratorio,LAB-2D,19,88.75,12.08,1.264,51.24,ativo,Operação dentro da faixa ilustrativa
+8,Suporte Médico,medico,MED-2E,52,45.62,11.13,1.507,186.27,alerta,Latência ou sinal fora da faixa ilustrativa
+8,Armazenamento,dados,DAD-2F,47,76.5,11.46,1.53,125.04,alerta,Latência ou sinal fora da faixa ilustrativa
+8,Energia,energia,ENE-30,27,85.42,11.75,1.602,63.31,ativo,Operação dentro da faixa ilustrativa
+8,Controle,controle,CTR-31,30,89.97,11.25,1.619,67.47,ativo,Operação dentro da faixa ilustrativa
+9,Comunicação,comunicacao,COM-2A,23,75.12,11.88,1.137,76.93,ativo,Operação dentro da faixa ilustrativa
+9,Habitação,habitacao,HAB-2B,31,84.49,11.55,1.256,82.72,ativo,Operação dentro da faixa ilustrativa
+9,Agricultura,agricultura,AGR-2C,19,92.32,11.25,1.29,49.49,ativo,Operação dentro da faixa ilustrativa
+9,Laboratório,laboratorio,LAB-2D,30,69.33,12.17,1.439,86.56,ativo,Operação dentro da faixa ilustrativa
+9,Suporte Médico,medico,MED-2E,34,75.14,11.43,1.455,94.3,ativo,Operação dentro da faixa ilustrativa
+9,Armazenamento,dados,DAD-2F,24,87.56,12.11,1.563,65.52,ativo,Operação dentro da faixa ilustrativa
+9,Energia,energia,ENE-30,35,64.2,12.09,1.717,98.12,ativo,Operação dentro da faixa ilustrativa
+9,Controle,controle,CTR-31,19,69.9,11.89,1.613,70.3,ativo,Operação dentro da faixa ilustrativa
+10,Comunicação,comunicacao,COM-2A,25,88.82,12.26,1.143,69.96,ativo,Operação dentro da faixa ilustrativa
+10,Habitação,habitacao,HAB-2B,39,65.24,11.53,1.26,104.38,ativo,Operação dentro da faixa ilustrativa
+10,Agricultura,agricultura,AGR-2C,24,74.97,11.51,1.208,74.8,ativo,Operação dentro da faixa ilustrativa
+10,Laboratório,laboratorio,LAB-2D,35,83.87,12.18,1.412,97.96,ativo,Operação dentro da faixa ilustrativa
+10,Suporte Médico,medico,MED-2E,14,89.13,11.85,1.377,55.01,ativo,Operação dentro da faixa ilustrativa
+10,Armazenamento,dados,DAD-2F,29,67.21,12.05,1.583,80.65,ativo,Operação dentro da faixa ilustrativa
+10,Energia,energia,ENE-30,33,73.79,11.76,1.584,90.28,ativo,Operação dentro da faixa ilustrativa
+10,Controle,controle,CTR-31,15,84.2,12.12,1.777,43.19,ativo,Operação dentro da faixa ilustrativa
+11,Comunicação,comunicacao,COM-2A,33,68.44,12.25,1.071,100.6,ativo,Operação dentro da faixa ilustrativa
+11,Habitação,habitacao,HAB-2B,22,77.97,12.26,1.095,69.73,ativo,Operação dentro da faixa ilustrativa
+11,Agricultura,agricultura,AGR-2C,25,87.4,11.5,1.223,76.25,ativo,Operação dentro da faixa ilustrativa
+11,Laboratório,laboratorio,LAB-2D,46,59.14,12.18,1.321,135.83,alerta,Latência ou sinal fora da faixa ilustrativa
+11,Suporte Médico,medico,MED-2E,21,69.14,12.27,1.385,75.29,ativo,Operação dentro da faixa ilustrativa
+11,Armazenamento,dados,DAD-2F,37,79.89,12.23,1.515,91.57,ativo,Operação dentro da faixa ilustrativa
+11,Energia,energia,ENE-30,40,71.41,12.27,1.759,143.51,alerta,Latência ou sinal fora da faixa ilustrativa
+11,Controle,controle,CTR-31,24,61.89,11.27,1.617,86.85,ativo,Operação dentro da faixa ilustrativa
+12,Comunicação,comunicacao,COM-2A,9,81.09,12.16,1.134,44.52,ativo,Operação dentro da faixa ilustrativa
+12,Habitação,habitacao,HAB-2B,24,88.82,11.74,1.214,65.36,ativo,Operação dentro da faixa ilustrativa
+12,Agricultura,agricultura,AGR-2C,33,62.76,12.28,1.276,109.59,alerta,Latência ou sinal fora da faixa ilustrativa
+12,Laboratório,laboratorio,LAB-2D,19,72.58,11.46,1.278,68.98,manutencao,Verificação preventiva programada
+12,Suporte Médico,medico,MED-2E,31,85.46,11.25,1.465,83.95,ativo,Operação dentro da faixa ilustrativa
+12,Armazenamento,dados,DAD-2F,42,94.51,11.51,1.447,84.53,ativo,Operação dentro da faixa ilustrativa
+12,Energia,energia,ENE-30,19,68.85,12.03,1.584,67.21,ativo,Operação dentro da faixa ilustrativa
+12,Controle,controle,CTR-31,35,76.04,11.5,1.828,86.88,ativo,Operação dentro da faixa ilustrativa
+13,Comunicação,comunicacao,COM-2A,26,94.94,11.69,1.055,62.75,ativo,Operação dentro da faixa ilustrativa
+13,Habitação,habitacao,HAB-2B,37,71.52,12.01,1.154,108.5,alerta,Latência ou sinal fora da faixa ilustrativa
+13,Agricultura,agricultura,AGR-2C,21,78.54,11.36,1.266,63.39,ativo,Operação dentro da faixa ilustrativa
+13,Laboratório,laboratorio,LAB-2D,26,85.61,12.1,1.327,72.6,ativo,Operação dentro da faixa ilustrativa
+13,Suporte Médico,medico,MED-2E,38,60.58,11.75,1.404,112.83,alerta,Latência ou sinal fora da faixa ilustrativa
+13,Armazenamento,dados,DAD-2F,26,68.74,11.45,1.54,83.69,ativo,Operação dentro da faixa ilustrativa
+13,Energia,energia,ENE-30,31,79.4,11.76,1.599,80.64,ativo,Operação dentro da faixa ilustrativa
+13,Controle,controle,CTR-31,20,91.54,12.19,1.813,49.2,ativo,Operação dentro da faixa ilustrativa
+14,Comunicação,comunicacao,COM-2A,32,74.59,11.72,1.082,87.74,ativo,Operação dentro da faixa ilustrativa
+14,Habitação,habitacao,HAB-2B,56,64.35,11.11,1.204,180.8,alerta,Latência ou sinal fora da faixa ilustrativa
+14,Agricultura,agricultura,AGR-2C,20,88.78,11.79,1.307,63.29,ativo,Operação dentro da faixa ilustrativa
+14,Laboratório,laboratorio,LAB-2D,34,65.03,11.14,1.303,101.13,ativo,Operação dentro da faixa ilustrativa
+14,Suporte Médico,medico,MED-2E,11,75.96,12.23,1.418,52.48,ativo,Operação dentro da faixa ilustrativa
+14,Armazenamento,dados,DAD-2F,29,82.66,11.86,1.449,68.08,ativo,Operação dentro da faixa ilustrativa
+14,Energia,energia,ENE-30,43,91.13,12.02,1.756,100.3,ativo,Operação dentro da faixa ilustrativa
+14,Controle,controle,CTR-31,22,66.24,11.91,1.779,83.1,ativo,Operação dentro da faixa ilustrativa
+15,Comunicação,comunicacao,COM-2A,47,67.41,11.95,1.143,156.75,alerta,Latência ou sinal fora da faixa ilustrativa
+15,Habitação,habitacao,HAB-2B,16,63.63,11.15,1.202,70.87,ativo,Operação dentro da faixa ilustrativa
+15,Agricultura,agricultura,AGR-2C,31,72.93,12.29,1.379,89.47,ativo,Operação dentro da faixa ilustrativa
+15,Laboratório,laboratorio,LAB-2D,39,77.91,11.68,1.367,102.56,ativo,Operação dentro da faixa ilustrativa
+15,Suporte Médico,medico,MED-2E,39,71.03,11.14,1.458,152.6,alerta,Latência ou sinal fora da faixa ilustrativa
+15,Armazenamento,dados,DAD-2F,32,65.02,11.66,1.518,96.73,ativo,Operação dentro da faixa ilustrativa
+15,Energia,energia,ENE-30,36,55.05,11.58,1.572,153.26,alerta,Latência ou sinal fora da faixa ilustrativa
+15,Controle,controle,CTR-31,23,82.36,11.87,1.732,63.64,ativo,Operação dentro da faixa ilustrativa
