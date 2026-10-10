@@ -387,12 +387,49 @@ def executar_menu(registros: list[Registro], modelo: ModeloLinear, treino: list[
         "7": lambda: imprimir_hardware(registros),
         "8": lambda: imprimir_analise_final(registros, modelo, teste, media_treino),
     }
+
+    def mostrar_menu() -> None:
+        """Apresenta as opções agrupadas por tarefa em uma moldura simples."""
+        largura = 58
+        borda = "+" + "-" * (largura + 2) + "+"
+
+        def linha(texto: str = "") -> str:
+            return "| " + texto[:largura].ljust(largura) + " |"
+
+        titulo = "SCIC | AURORA SIGER"
+        subtitulo = "Sistema de Comunicação Interplanetária da Colônia"
+        resumo = (f"Base carregada: {len(registros)} registros | "
+                  f"{len({r.modulo for r in registros})} módulos | "
+                  f"ciclos {min(r.ciclo for r in registros)}-{max(r.ciclo for r in registros)}")
+        linhas = [
+            borda,
+            linha(titulo.center(largura)),
+            linha(subtitulo.center(largura)),
+            borda,
+            linha(resumo),
+            borda,
+            linha("DADOS E CONSULTAS"),
+            linha("  [1] Visão geral da base"),
+            linha("  [2] Consultar módulo ou código de sensor"),
+            linha("ANÁLISE"),
+            linha("  [3] Indicadores, potência e erros numéricos"),
+            linha("  [4] Previsão de latência e métricas"),
+            linha("ALERTAS E BUSCA"),
+            linha("  [5] Priorizar alertas (heap)"),
+            linha("  [6] Buscar código por prefixo (trie)"),
+            linha("REFERÊNCIA"),
+            linha("  [7] Dispositivos, bases numéricas e eletricidade"),
+            linha("  [8] Análise final da operação"),
+            borda,
+            linha("  [0] Sair"),
+            borda,
+        ]
+        print("\n" + "\n".join(linhas))
+
     while True:
-        print("\nSCIC | 1 Base  2 Consultar  3 Indicadores/erros  4 Previsão/métricas")
-        print("       5 Alertas/heap  6 Prefixo/trie  7 Dispositivos/bases/energia")
-        print("       8 Análise final  0 Sair")
+        mostrar_menu()
         try:
-            escolha = input("Opção: ").strip()
+            escolha = input("Escolha uma opção [0-8] e pressione Enter: ").strip()
             if escolha == "0":
                 print("Encerrado.")
                 return

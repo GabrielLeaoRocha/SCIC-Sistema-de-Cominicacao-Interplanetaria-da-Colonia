@@ -52,15 +52,15 @@ O programa resolve caminhos relativos ao seu próprio arquivo, então também fu
 
 ## Menu
 
-1. Carregar e resumir a base.
-2. Consultar registros por nome de módulo ou código.
-3. Mostrar indicadores, potência elétrica e exemplos de erros.
-4. Executar previsão e comparar MAE, MSE, RMSE e R² com o baseline.
-5. Mostrar alertas do ciclo mais recente na ordem retirada do heap.
-6. Buscar código de sensor por prefixo na trie.
-7. Relacionar o protótipo a entrada/saída, bases numéricas e eletricidade.
-8. Exibir a análise final.
-0. Sair.
+O menu mostra a quantidade de registros, módulos e ciclos já carregados e agrupa as opções por tarefa:
+
+- **Dados e consultas:** `[1]` visão geral da base; `[2]` consulta por módulo ou código de sensor.
+- **Análise:** `[3]` indicadores e erros numéricos; `[4]` previsão e métricas.
+- **Alertas e busca:** `[5]` prioridade com heap; `[6]` busca de prefixo com trie.
+- **Referência:** `[7]` dispositivos, bases numéricas e eletricidade; `[8]` análise final.
+- `[0]` encerra o programa.
+
+Digite o número indicado entre colchetes e pressione Enter. Para a consulta comum, informe parte do nome do módulo ou código; para a trie, informe um prefixo como `COM`.
 
 Exemplo de uso: opção `6`, prefixo `COM` → 15 registros do código `COM-2A`; opção `5` → no ciclo 15, `MED-2E`, `ENE-30` e `COM-2A` nessa ordem. Os valores são didáticos e não representam uma rede real.
 
