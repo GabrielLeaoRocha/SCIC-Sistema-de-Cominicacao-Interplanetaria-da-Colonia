@@ -97,3 +97,7 @@ Como evolução, seria possível ampliar ciclos simulados, registrar origem e co
 ## 11. Como reproduzir
 
 Na pasta extraída, execute `python codigo_fonte.py --demo` para ver o fluxo completo ou `python codigo_fonte.py` para usar o menu. Para regenerar a base exatamente, execute `python gerar_dados.py` antes do programa. Os resultados numéricos acima correspondem à base incluída nesta entrega. As verificações automatizadas podem ser executadas com `python -m unittest discover -s tests -v` quando a pasta `tests` estiver presente no repositório.
+
+## 12. Vídeo de apresentação
+
+O vídeo de demonstração do SCIC foi publicado no YouTube como Não listado: <https://youtu.be/e76cJT13JUg>. O mesmo endereço está disponível em `link_video.txt`, arquivo obrigatório da entrega.

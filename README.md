@@ -70,10 +70,10 @@ O modelo prevê latência (ms) usando fila de mensagens, qualidade do sinal e po
 
 ## Preparar a entrega
 
-1. Grave a demonstração real do programa em vídeo de **até 5 minutos**. Consulte [roteiro_video.md](roteiro_video.md).
-2. Publique no YouTube como **Não listado** e confira o link em uma janela sem login.
-3. Substitua o texto provisório de `link_video.txt` pela URL do vídeo, em uma linha.
-4. Execute `python empacotar.py`. O script rejeita o texto provisório e cria `SCIC_Aurora_Siger.zip` na pasta acima do projeto.
-5. Confira o conteúdo extraído do pacote e envie o `.zip` e o link pela plataforma da atividade.
+O vídeo de apresentação está disponível no YouTube: <https://youtu.be/e76cJT13JUg>.
+
+1. Execute `python empacotar.py`. O script cria `SCIC_Aurora_Siger.zip` na pasta acima do projeto.
+2. Confira o conteúdo extraído do pacote.
+3. Envie o `.zip` e informe o link do vídeo na plataforma da atividade.
 
 O pacote final inclui os cinco arquivos obrigatórios com os nomes exatos, além do gerador da base. A publicação do vídeo e o envio devem ser realizados pela equipe.
